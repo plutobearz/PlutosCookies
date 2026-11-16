@@ -18,5 +18,11 @@
 
 LIFETIME SOURCECODE: $30
 
+Paid Keys:
+
+1 Day Tester - $3
+1 Week - $10
+1 Month - $25
+
 MORE FEATURE ETC.....
 Contact: @plutobearz
