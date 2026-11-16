@@ -2,6 +2,15 @@
 
 ## 🔥PlutosCookies🔥
 
+# Pricing
+
+**LIFETIME SOURCECODE: $30**
+**Paid Keys:**
+
+- **1 Day Tester - $3**
+- **1 Week - $10**
+- **1 Month - $25**
+
 - ✅39 SITE COOKIE CHECKER
 - ✅CUSTOM CHECKERS - ChatGPT, Reddit, Roblox, LinkedIn, Kleinanzeigen, Claude AI, Xbox
 - ✅VALID / INVALID / ERROR VERDICTS PER SITE
@@ -17,14 +26,5 @@
 - ✅FULL TABLE INSPECTOR - resize columns, hover tooltips, double-click full view
 - ✅PROXYLESS + PROXY SUPPORT
 - ✅SETTINGS - threads, timeouts, file limits, debug console
-
-# Pricing
-
-**LIFETIME SOURCECODE: $30**
-**Paid Keys:**
-
-- **1 Day Tester - $3**
-- **1 Week - $10**
-- **1 Month - $25**
 
 **Contact: @plutobearz**
