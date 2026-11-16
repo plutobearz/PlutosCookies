@@ -16,7 +16,7 @@
 ✅PROXYLESS + PROXY SUPPORT
 ✅SETTINGS - threads, timeouts, file limits, debug console
 
-LIFETIME SOURCECODE: $50
+LIFETIME SOURCECODE: $30
 
 MORE FEATURE ETC.....
 Contact: @plutobearz
