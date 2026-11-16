@@ -1,4 +1,5 @@
 <img width="1418" height="909" alt="showcase" src="https://github.com/user-attachments/assets/caf516b9-a039-46d2-a973-cefef310a848" />
+
 ## 🔥PlutosCookies🔥
 
 - ✅39 SITE COOKIE CHECKER
